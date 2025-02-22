@@ -1,6 +1,5 @@
 # RYK-MenuDrivenTextFileAnalyzer-cpp
-
-![image](https://github.com/user-attachments/assets/130eda0e-fa63-4125-ae72-88e7058c61d8)
+![image](https://github.com/user-attachments/assets/86b87350-cb30-43ab-8786-d616fb8916f0)
 
 /* ======================================================================== */
 
