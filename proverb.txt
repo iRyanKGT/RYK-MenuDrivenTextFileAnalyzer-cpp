@@ -1,0 +1,24 @@
+THINK FIRST CODE LATER
+ 
+     This proverb is intimately connected with the previous
+proverbs. After you have settled on the problem definition and its
+documentation procedures the essential task is to start thinking
+about the solution as soon as possible and to start the actual
+coding process only after you have devised a clear plan of attack.
+     Consider carefully the wording of this proverb. Think first
+means THINK DO NOT CODE. Start thinking while the problem is fresh
+in your mind and the deadline is as far away as it will ever be.
+Consider at least two different ways to solve the problem. Examine
+the approaches in sufficient detail to discover possible trouble
+spots or areas where the solution appears difficult. A top notch
+program requires a top notch algorithm.
+     CODE LATER means DELAY CODING. Give yourself some time to weed
+out difficult parts and polish the algorithm before trying to
+formalize it in actual code. It is much easier to discard poor
+thoughts than poor programs.
+     In conclusion remember Murphys second law of programming. It
+always takes longer to write a program than you think. A corollary
+might be the sooner you start coding the program instead of thinking
+about it the longer it will take to finish the job.
+     taken from PROGRAMMING PROVERBS
+                  by Ledgaard and Nagin and Hueras
